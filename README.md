@@ -1,4 +1,5 @@
 solves A-Puzzle-A-Day for the entire year
+find solutions for month MM and day DD in year/month_MM/day_DD
 
 Usage:
 ~~~
